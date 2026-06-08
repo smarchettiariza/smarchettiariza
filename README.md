@@ -10,7 +10,7 @@ Estudiante de desarrollo de software con orientación full stack. Me interesa co
   Universidad de la Defensa Nacional – CRUC IUA · 2024–presente
 - **Técnico en Programación**  
   IPET 57 Comodoro Martín Rivadavia · 2017–2023
----
+
 
 # Skills técnicas
 
