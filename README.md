@@ -1,4 +1,4 @@
-# Hola, soy Santiago Marchetti Arizza 👋
+# Hola!, soy Santiago Marchetti Arizza 
  
 Estudiante de desarrollo de software con orientación full stack. Me interesa construir aplicaciones reales, entender cómo funcionan las cosas por dentro y seguir aprendiendo.
  
