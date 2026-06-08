@@ -1,34 +1,16 @@
-
-#  ¡Hola! Soy **Santiago Marchetti Arizza**
-
-Técnico en Desarrollo de Aplicaciones Informáticas
-Apasionado por la tecnología, la programación y el diseño
-
-Sobre mí
-
-Soy estudiante de programación con un fuerte interés en el desarrollo de software y la creación de soluciones tecnológicas. Me gusta entender cómo funcionan las cosas por dentro y llevar ideas a aplicaciones reales.
-
-Actualmente estoy formándome en desarrollo de aplicaciones, trabajando tanto en el frontend como en el backend, y explorando diferentes tecnologías para seguir creciendo como desarrollador.
-
-
-Objetivos
-
-Seguir mejorando como desarrollador full stack
-Crear aplicaciones útiles y bien diseñadas
-Aprender nuevas tecnologías y buenas prácticas
-Participar en proyectos reales y colaborativos
-
---- 
-# Formación
-
-Tecnicatura en Desarrollo de Aplicaciones Informáticas                           
-(En curso, modalidad remota) - Universidad de la Defensa Nacional - Centro Regional Universitario Córdoba - IUA   
-2024 – Presente 
-
-Técnico en Programacion  
-Secundario completo con orientación técnica | IPET 57 Comodoro Martín Rivadavia   
-2017 – 2023
-
+# Hola, soy Santiago Marchetti Arizza 👋
+ 
+Estudiante de desarrollo de software con orientación full stack. Me interesa construir aplicaciones reales, entender cómo funcionan las cosas por dentro y seguir aprendiendo.
+ 
+---
+ 
+## 🎓 Formación
+ 
+- **Tecnicatura en Desarrollo de Aplicaciones Informáticas** *(en curso)*  
+  Universidad de la Defensa Nacional – CRUC IUA · 2024–presente
+- **Técnico en Programación**  
+  IPET 57 Comodoro Martín Rivadavia · 2017–2023
+---
 
 # Skills técnicas
 
@@ -60,18 +42,16 @@ Herramientas
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## Proyectos
-
-   App de gestión de contactos (Android)
-
-   Interfaces web para sistemas de turnos médicos
-
-   Aplicaciones en Java con lógica y estructuras de datos
-
-   Proyectos académicos con enfoque en UX/UI
-
-
-
+## 📂 Proyectos destacados
+ 
+- Aplicación de gestión de contactos (Android)
+- Interfaces web para sistemas de turnos médicos
+- Proyectos académicos con enfoque en UX/UI
+---
+ 
+## 📫 Contacto
+ 
+¿Querés colaborar o simplemente charlar? Escribime por acá en GitHub.
 
 
 
