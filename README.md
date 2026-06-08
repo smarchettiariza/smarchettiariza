@@ -2,7 +2,7 @@
  
 Estudiante de desarrollo de software con orientación full stack. Me interesa construir aplicaciones reales, entender cómo funcionan las cosas por dentro y seguir aprendiendo.
  
----
+
  
 ## 🎓 Formación
  
@@ -47,7 +47,7 @@ Herramientas
 - Aplicación de gestión de contactos (Android)
 - Interfaces web para sistemas de turnos médicos
 - Proyectos académicos con enfoque en UX/UI
----
+
  
 ## 📫 Contacto
  
