@@ -4,7 +4,7 @@ Estudiante de desarrollo de software con orientación full stack. Me interesa co
  
 
  
-## 🎓 Formación
+##  Formación
  
 - **Tecnicatura en Desarrollo de Aplicaciones Informáticas** *(en curso)*  
   Universidad de la Defensa Nacional – CRUC IUA · 2024–presente
@@ -49,9 +49,6 @@ Herramientas
 - Proyectos académicos con enfoque en UX/UI
 
  
-## 📫 Contacto
- 
-¿Querés colaborar o simplemente charlar? Escribime por acá en GitHub.
 
 
 
