@@ -12,7 +12,7 @@ Estudiante de desarrollo de software con orientación full stack. Me interesa co
   IPET 57 Comodoro Martín Rivadavia · 2017–2023
 
 
-# Skills técnicas
+## Skills técnicas
 
 Frontend 
 
