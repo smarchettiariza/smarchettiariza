@@ -6,8 +6,8 @@ Estudiante de desarrollo de software con orientación full stack. Me interesa co
  
 ##  Formación
  
-- **Tecnicatura en Desarrollo de Aplicaciones Informáticas** *(en curso)*  
-  Universidad de la Defensa Nacional – CRUC IUA · 2024–presente
+- **Tecnicatura en Desarrollo de Aplicaciones Informáticas**   
+  Universidad de la Defensa Nacional – CRUC IUA · 2024–2026
 - **Técnico en Programación**  
   IPET 57 Comodoro Martín Rivadavia · 2017–2023
 
