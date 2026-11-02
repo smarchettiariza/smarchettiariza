@@ -61,17 +61,6 @@ Estudiante de desarrollo de software con orientación full stack. Me interesa co
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-</div>
 
-## Estadísticas de GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=smarchettiariza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estadísticas de GitHub"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarchettiariza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smarchettiariza&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Gráfico de actividad"/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F4C5C&height=110&section=footer" alt=""/>
